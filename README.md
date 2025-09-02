@@ -7,6 +7,7 @@ How to setup?
 3. Find out setup file.
 4.Double click on it.
 5. That's all.
+
 ....................
    
 The Windows-based Chakma Keyboard has been specially developed for the Chakma community. 
